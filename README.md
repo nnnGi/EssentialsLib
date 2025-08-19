@@ -5,33 +5,55 @@ With an Integrated Updater, Dictionary and List Utilities, Global Variables, vCa
 Essentials Library is meticulously crafted to empower your shortcuts with an expedited method for implementing essential functionalities and facilitating seamless integration.
 Functioning as a foundational resource, it is replete with invaluable features that elevate your shortcuts. Furthermore, it provides a comprehensive set of tools to streamline your automations, all accessible through APIs, all encapsulated within a single shortcut.
 
-It aims to replace most of the functionality of apps such as Actions to reduce the need for outside apps other than the base iOS / Apple apps preinstalled. Such actions that have been replaced include: The vCard Actions, In Dictionary, Global Variables, IsOnline and Invert Dictionary.
+### Code Faster without more Apps
+It aims to replace most of the functionality of apps such as Actions to reduce the need for outside apps other than the base iOS / Apple apps preinstalled. Such actions that have been replaced include: `Create Icon/Encoded Menu`, `In Dictionary`, `Global Variables`, `IsOnline` and `Invert Dictionary`.
 
-**Essentials is under active development. New beta versions might break existing tools and may need fixing. All bug reports go to the [Docs](https://essentialslibrary.fibery.io/@public/)**
+**Essentials is fully released but under active development. Though unlikely, new beta versions may break existing tools and require fixes. All bug reports go to the [Docs](https://essentialslibrary.fibery.io/@public/Feedback_and_Support/Issue-Reporting-Form-90)**
+
+
+-----------------
+| Apple OS Version | Support |
+| -----------  | :---: |
+| iOS + iPadOS 17 | ❌ |
+| macOS 14 | ❌ |
+| iOS + iPadOS 18.0 - 18.6 | ✅ |
+| macOS 15.0 - 15.6 | ✅ |
+| iOS + iPadOS + macOS 26 Beta | ✅ |
 
 -----------------
 
 ### ✨ Features:
 
-- ✅ **Optimised**: Only runs what the actions it needs to. We’re continually working to optimise it.
+- ✳️ **Optimised & Fast**: Only runs what it needs to and loads in around 2-3 seconds. We’re continually working to optimise it.
 
-- 📥 **Integrated Updater**: This powerful feature not only keeps Essentials Library automatically up-to-date with the latest enhancements but also offers utility for integrating update checks into your shortcuts.
+- 📥 **Integrated Updater**: This powerful JS updater not only keeps Essentials Library automatically up-to-date with the latest enhancements but also offers utility for integrating update checks into your shortcuts.
 
 - 🧰 **Dictionary and List Utilities**: Manipulate and manage your data with ease. Powerful actions for dictionaries and lists allow for complex data handling within your shortcuts.
+
+- 🔎 **Shortcut Search**: Improved Shortcut Searching Mechanism, making it easier to filter shortcuts for all uses!
 
 - 🔌 **Improved RoutineHub API**: Retrieve Complex information from Other Shortcuts, such as Description, Download Count, Creator, and more!
 
 - 🌎 **Global Variables**: Implement persistent data across multiple shortcuts and multiple runs. Store and retrieve information globally, making your shortcuts more dynamic and interconnected.
 
-- 📇 **vCard Menu Generation**: Create and manage Icon Menus on the fly. Generate vCards for a more useful and informative way to display your options in a menu!
+- 📇 **vCard Menu Generation**: Create Icon Menus without any hassle, using both Base-64 and Emojis; Generate vCards for a more useful and informative way to display your options in a menu!
 
-- 🎴 **Markdown Support**: Create and show Markdown and Information Cards, without breaking a sweat!
+- 🎴 **Markdown & Card Support**: Create and show Markdown and Information Cards, without breaking a sweat!
+
+- 🔑 **AES Encryption**: Encrypt and Decrypt using any custom key without using super advanced techniques or long lines of code, using super safe AES Encryption!
 
 - 📚 **Run JavaScript**: Use JS to automate complex features that are too time-consuming in Native Shortcuts!
 
-- **…and much more!** Run the shortcut or scroll to access the documentation.
+- **…and much more on the way!** Run the shortcut or scroll to access the documentation.
+
+### 📲 Coming Soon
+- 💾 **Custom Functions**: Create your own tools as a package for Essentials Library, turning repetitive steps in your shortcuts to its own method!
+
+- 📦 **Package Installer**: Install Dependency Packages (Custom Functions) for your shortcut, without messing around with time-wasting checkers
 
 ### 🚀 Why You Should Consider Essentials Library:
+- ⚡️ **Fast Performance**: Tools load in under 3 seconds, often only taking 2 seconds!
+
 - ✅ **Boost Your Productivity**: Automate repetitive tasks and manage data more efficiently.
 
 - ✅ **Simplify Complex Workflows**: Break down intricate processes into manageable, reusable components.
@@ -46,8 +68,8 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 
 -----------------
 ## How to Use
-Install Latest Version → [Read the Docs](https://essentialslibrary.fibery.io/@public/) → Implement  
-Issues & Suggestions go to the Docs
+Install Latest Stable Version → [Read the Docs](https://essentialslibrary.fibery.io/@public/) → Implement & Enjoy
+All Issues & Suggestions go to the Docs.
 
 -----------------
 
@@ -68,7 +90,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 -----------------
 ### Consider adding Essentials Library to your Shortcut Toolkit today and unlock the full potential of your Shortcuts!
 
-## Here is the Dependency Badge if you Add this Shortcut as a Dependency
+## Here is the Dependency Badge if you add this Shortcut as a Dependency
 
 [![Requirement Badge](https://i.imgur.com/qHdLKHp.png)](https://routinehub.co/shortcut/22551/)
 
@@ -80,8 +102,11 @@ to your shortcut description.
 
 [![Requirement Badge](https://i.imgur.com/BuoVI61.png)](https://routinehub.co/shortcut/22551/)
 
+[![Made by](https://i.imgur.com/aoKmGNv.png)](https://routinehub.co/user/__nnn__/)
+
 ## Support Me
 If you appreciate my work, do give it a favourite/like!  
+[Join My Discord](https://discord.gg/u3tKpu4R7b)  
 Check out:
 
 ## Page Links
@@ -92,5 +117,5 @@ Check out:
 Graphics made with [MediaKit](https://routinehub.co/shortcut/1911).  
 RoutineHub Fetch Inspired by [HubFetch](https://routinehub.co/shortcut/17695/).  
 Some Tools are from the JS1 Set by [@atnbueno](https://routinehub.co/user/atnbueno).  
-Partially inspired by [Cyclone 2](https://routinehub.co/shortcut/19577/).  
+Partially inspired by [Cyclone Library](https://routinehub.co/shortcut/19577/).  
 Partially Motivated by Integrating [Actions](https://apps.apple.com/us/app/actions/id1586435171).
