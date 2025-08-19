@@ -102,8 +102,6 @@ to your shortcut description.
 
 [![Requirement Badge](https://i.imgur.com/BuoVI61.png)](https://routinehub.co/shortcut/22551/)
 
-[![Made by](https://i.imgur.com/aoKmGNv.png)](https://routinehub.co/user/__nnn__/)
-
 ## Support Me
 If you appreciate my work, do give it a favourite/like!  
 [Join My Discord](https://discord.gg/u3tKpu4R7b)  
