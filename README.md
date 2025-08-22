@@ -1,5 +1,3 @@
-# Essentials Library (EssentialsLib)
-
 With an Integrated Updater, Dictionary and List Utilities, Global Variables, vCard Generation and more, the Essentials Collection will bring your shortcut development to the next level!
 
 Essentials Library is meticulously crafted to empower your shortcuts with an expedited method for implementing essential functionalities and facilitating seamless integration.
@@ -78,7 +76,7 @@ All Issues & Suggestions go to the Docs.
 ```
 MIT License
 
-Copyright (c) 2025 @__nnn__
+Copyright (c) 2025 @0xnCubed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
