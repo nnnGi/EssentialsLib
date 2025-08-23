@@ -50,7 +50,7 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 - 📦 **Package Installer**: Install Dependency Packages (Custom Functions) for your shortcut, without messing around with time-wasting checkers
 
 ### 🚀 Why You Should Consider Essentials Library:
-- ⚡️ **Fast Performance**: Tools load in under 3 seconds, often only taking 2 seconds!
+- ⚡️ **Fast Performance**: Tools load in under 2 seconds, on par with other libraries!
 
 - ✅ **Boost Your Productivity**: Automate repetitive tasks and manage data more efficiently.
 
