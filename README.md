@@ -42,12 +42,11 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 
 - 📚 **Run JavaScript**: Use JS to automate complex features that are too time-consuming in Native Shortcuts!
 
-- **…and much more on the way!** Run the shortcut or scroll to access the documentation.
-
-### 📲 Coming Soon
 - 💾 **Custom Functions**: Create your own tools as a package for Essentials Library, turning repetitive steps in your shortcuts to its own method!
 
 - 📦 **Package Installer**: Install Dependency Packages (Custom Functions) for your shortcut, without messing around with time-wasting checkers
+
+- **…and much more on the way!** Run the shortcut or scroll to access the documentation.
 
 ### 🚀 Why You Should Consider Essentials Library:
 - ⚡️ **Fast Performance**: Tools load in under 2 seconds, on par with other libraries!
