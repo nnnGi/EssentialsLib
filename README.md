@@ -17,7 +17,7 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 | macOS 14 | ❌ |
 | iOS + iPadOS 18.0 - 18.6 | ✅ |
 | macOS 15.0 - 15.6 | ✅ |
-| iOS + iPadOS + macOS 26 Beta | ✅ |
+| iOS + iPadOS + macOS 26 | ✅ |
 
 -----------------
 
