@@ -100,15 +100,6 @@ to your shortcut description.
 
 [![Requirement Badge](https://i.imgur.com/BuoVI61.png)](https://routinehub.co/shortcut/22551/)
 
-## Support Me
-If you appreciate my work, do give it a favourite/like!  
-[Join My Discord](https://discord.gg/u3tKpu4R7b)  
-Check out:
-
-## Page Links
-[Visit SwiftUpdater 2.0 🅂 Page Here!](https://routinehub.co/shortcut/19188/)  
-[Visit SearchCuts Page Here!](https://routinehub.co/shortcut/19181/)
-
 ## Attributions & Credits
 Graphics made with [MediaKit](https://routinehub.co/shortcut/1911).  
 RoutineHub Fetch Inspired by [HubFetch](https://routinehub.co/shortcut/17695/).  
