@@ -1,4 +1,5 @@
 # Essentials Library (EssentialsLib)
+
 With an Integrated Updater, Dictionary and List Utilities, Global Variables, vCard Generation and more, the Essentials Collection will bring your shortcut development to the next level!
 
 Essentials Library is meticulously crafted to empower your shortcuts with an expedited method for implementing essential functionalities and facilitating seamless integration.
@@ -9,6 +10,8 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 
 **Essentials is fully released but under active development. Though unlikely, new beta versions may break existing tools and require fixes. All bug reports go to the [Docs](https://essentialslibrary.fibery.io/@public/Feedback_and_Support/Issue-Reporting-Form-90)**
 
+### Implementation Template
+If you intend on using Essentials Library in your Shortcut, build your Shortcut from [EssentialsLib Loader](https://routinehub.co/shortcut/23550/).
 
 -----------------
 | Apple OS Version | Support |
@@ -23,7 +26,7 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 
 ### ✨ Features:
 
-- ✳️ **Optimised & Fast**: Only runs what it needs to and loads in around 2-3 seconds. We’re continually working to optimise it.
+- ✳️ **Optimised & Fast**: Only runs what it needs to and Tools load in around a 1/2 second. We’re continually working to optimise it.
 
 - 📥 **Integrated Updater**: This powerful JS updater not only keeps Essentials Library automatically up-to-date with the latest enhancements but also offers utility for integrating update checks into your shortcuts.
 
@@ -50,7 +53,9 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 - **…and much more on the way!** Run the shortcut or scroll to access the documentation.
 
 ### 🚀 Why You Should Consider Essentials Library:
-- ⚡️ **Fast Performance**: Tools load in under 2 seconds, on par with other libraries!
+- ⚡️ **Fast Loading**: Tools load in under 0.5 seconds, on par with other libraries!
+
+- ⚡️ **Fast Tools**: Tools run in around 1-2 seconds, continuously to be optimised!
 
 - ✅ **Boost Your Productivity**: Automate repetitive tasks and manage data more efficiently.
 
@@ -66,7 +71,7 @@ It aims to replace most of the functionality of apps such as Actions to reduce t
 
 -----------------
 ## How to Use
-Install Latest Stable Version → [Read the Docs](https://essentialslibrary.fibery.io/@public/) → Implement & Enjoy
+Install Latest Stable Version → [Read the Docs](https://essentialslibrary.fibery.io/@public/) → Implement & Enjoy  
 All Issues & Suggestions go to the Docs.
 
 -----------------
@@ -100,9 +105,17 @@ to your shortcut description.
 
 [![Requirement Badge](https://i.imgur.com/BuoVI61.png)](https://routinehub.co/shortcut/22551/)
 
+## Support Me
+If you appreciate my work, do give it a favourite/like!  
+Check out:
+
+## Page Links
+[Visit SwiftUpdater 2.0 🅂 Page Here!](https://routinehub.co/shortcut/19188/)  
+[Visit SearchCuts Page Here!](https://routinehub.co/shortcut/19181/)
+
 ## Attributions & Credits
 Graphics made with [MediaKit](https://routinehub.co/shortcut/1911).  
 RoutineHub Fetch Inspired by [HubFetch](https://routinehub.co/shortcut/17695/).  
 Some Tools are from the JS1 Set by [@atnbueno](https://routinehub.co/user/atnbueno).  
-Partially inspired by [Cyclone Library](https://routinehub.co/shortcut/19577/).  
+Partially inspired by [Cyclone Library](https://routinehub.co/shortcut/19577/) and [UI Library](https://routinehub.co/shortcut/2145/).  
 Partially Motivated by Integrating [Actions](https://apps.apple.com/us/app/actions/id1586435171).
