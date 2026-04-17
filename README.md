@@ -18,8 +18,8 @@ If you intend on using Essentials Library in your Shortcut, build your Shortcut 
 | -----------  | :---: |
 | iOS + iPadOS 17 ↓ | ❌ |
 | macOS 14 ↓ | ❌ |
-| iOS + iPadOS 18.0 - 18.7 | ✅ |
-| macOS 15.0 - 15.7 | ✅ |
+| iOS + iPadOS 18.0 - 18.6 | ✅ |
+| macOS 15.0 - 15.6 | ✅ |
 | iOS + iPadOS + macOS 26 | ✅ |
 
 -----------------
